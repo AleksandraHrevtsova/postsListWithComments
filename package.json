@@ -12,10 +12,10 @@
     "react-scripts": "^3.1.1"
   },
   "scripts": {
-    "start": "yarn start",
-    "build": "yarn build",
-    "test": "yarn test",
-    "eject": "yarn eject",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
     "lint": "eslint src/**/*.js",
     "lint:fix": "eslint src/**/*.js --fix",
     "lint:format": "prettier src/**/*.{js,css,json} --write",
@@ -51,5 +51,5 @@
     "lint-staged": "^9.2.4",
     "prettier": "^1.18.2"
   },
-  "homepage": ""
+  "homepage": "https://aleksandrahrevtsova.github.io/postsListWithComments/"
 }
